@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/usr/lib/python3.10/site-packages/gi/overrides"
+    ]    
+}
